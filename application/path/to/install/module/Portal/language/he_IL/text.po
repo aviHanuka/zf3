@@ -1,0 +1,50 @@
+# Translation of WordPress - 5.x in default
+# This file is distributed under the same license as the WordPress - 5.x default.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he_IL\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Hello World"
+msgstr " שלום עולם"
+
+msgid "Welcome to"
+msgstr " ברוך הבאה ל"
+
+msgid "Zend Framework testing project"
+msgstr " פרוייקט ZEND לדוגמא"
+
+msgid "language"
+msgstr "שפה"
+
+msgid "English"
+msgstr "אנגלית"
+
+msgid "Hebrew"
+msgstr "עברית"
+
+msgid "Russian"
+msgstr "רוסית"
+
+msgid "by Zend Technologies Ltd. All rights reserved."
+msgstr "על ידי Zend Technologies Ltd. כל הזכויות שמורות."
+
+msgid "Home"
+msgstr "בית"
+
+msgid "ltr"
+msgstr "rtl_class"
+
+msgid "Write some sentence"
+msgstr "כתוב משפט כלשהו"
+
+msgid "Submit"
+msgstr "שלח"

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39b47ad6-9fc3-4974-9068-0b5e7dbee9a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w1XACipaV1805EvNqcQ4jByzEX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\codja\projects\IZOTEP-TEST\application\path\to\install\module\Words" />
+      <recent name="C:\codja\projects\IZOTEP-TEST\application\path\to\install\module\Portal\language\ru_RU" />
+      <recent name="C:\codja\projects\IZOTEP-TEST\application\path\to\install\module\Portal\language\he_IL" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\codja\projects\IZOTEP-TEST\application\path\to\install\module\Portal\src\Words" />
+      <recent name="C:\codja\projects\IZOTEP-TEST\application\path\to\install\module\Portal\language\hebrew" />
+      <recent name="C:\codja\projects\IZOTEP-TEST\application\path\to\install\module\Portal\language\english" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b47ad6-9fc3-4974-9068-0b5e7dbee9a5" name="Default Changelist" comment="" />
+      <created>1627626922593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627626922593</updated>
+      <workItem from="1627626923777" duration="21563000" />
+      <workItem from="1627799430054" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="978" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1627643693401">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="978" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@0.0.2560.1410" timestamp="1627643693401" />
+    <state x="947" y="402" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1627653079971">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="947" y="402" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@0.0.2560.1410" timestamp="1627653079971" />
+    <state x="1071" y="611" key="NewPhpFileDialog" timestamp="1627651581114">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1071" y="611" key="NewPhpFileDialog/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@0.0.2560.1410" timestamp="1627651581114" />
+    <state x="3631" y="611" key="NewPhpFileDialog/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@2560.0.2560.1410" timestamp="1627632562799" />
+    <state x="3478" y="228" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627633532356">
+      <screen x="2560" y="0" width="2560" height="1410" />
+    </state>
+    <state x="3478" y="228" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@2560.0.2560.1410" timestamp="1627633532356" />
+    <state x="2560" y="294" width="1895" height="1075" key="dock-window-1" timestamp="1627643410963">
+      <screen x="2560" y="0" width="2560" height="1410" />
+    </state>
+    <state x="2560" y="294" width="1895" height="1075" key="dock-window-1/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@0.0.2560.1410" timestamp="1627643410963" />
+    <state x="943" y="363" width="1075" height="682" key="find.popup" timestamp="1627655131282">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="363" width="1075" height="682" key="find.popup/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@0.0.2560.1410" timestamp="1627655131282" />
+    <state x="3503" y="363" width="1075" height="682" key="find.popup/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@2560.0.2560.1410" timestamp="1627637946367" />
+    <state x="852" y="329" key="run.anything.popup" timestamp="1627651764459">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="852" y="329" key="run.anything.popup/-1360.316.1360.738/2560.0.2560.1410/0.0.2560.1410@0.0.2560.1410" timestamp="1627651764459" />
+  </component>
+</project>

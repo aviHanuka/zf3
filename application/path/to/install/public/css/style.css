@@ -1,0 +1,50 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.zf-green {
+    color: #68b604;
+}
+
+.btn-success {
+    background-color: #57a900;
+    background-image: -moz-linear-gradient(top, #70d900, #57a900);
+    background-image: -ms-linear-gradient(top, #70d900, #57a900);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#70d900), to(#57a900));
+    background-image: -webkit-linear-gradient(top, #70d900, #57a900);
+    background-image: -o-linear-gradient(top, #70d900, #57a900);
+    background-image: linear-gradient(top, #70d900, #57a900);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#70d900', endColorstr='#57a900', GradientType=0);
+}
+
+.btn-success:hover,
+.btn-success:active,
+.btn-success.active,
+.btn-success.disabled,
+.btn-success[disabled] {
+    background-color: #57a900;
+}
+
+div.container a.navbar-brand > img {
+    display: inline;
+    margin-right: 4px;
+    margin-top: -2px;
+}
+
+.body_container.rtl_class,
+.body_container.rtl_class div,
+.body_container.rtl_class span,
+.body_container.rtl_class article,
+.body_container.rtl_class a,
+.body_container.rtl_class li,
+.body_container.rtl_class ol,
+.body_container.rtl_class p,
+.body_container.rtl_class h1,
+.body_container.rtl_class h2,
+.body_container.rtl_class h3,
+.body_container.rtl_class h4,
+.body_container.rtl_class h5,
+.body_container.rtl_class h6
+{direction:rtl;text-align:right;}
+.body_container.rtl_class .dropdown-toggle::after {margin-right:0.255em;margin-left:0!important;}

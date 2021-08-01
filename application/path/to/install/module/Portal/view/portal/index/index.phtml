@@ -1,0 +1,26 @@
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+            <h1><?= $this->translate('Welcome to');?> <span class="zf-green"><?= $this->translate('Zend Framework testing project');?></span></h1>
+            <p><?= $this->translate('Hello World');?></p>
+        </div>
+    </div>
+    <hr/>
+    <div class="row" id="main_form" aria-hidden="false" aria-expanded="true">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+            <form action="/" method="post" class="form_submit_word" onsubmit="return false;">
+                <div class="form-group">
+                    <label for="inputWords"><?= $this->translate('Write some sentence');?></label>
+                    <input type="text" class="form-control" id="inputWords" placeholder="...">
+                </div>
+                <button type="submit" id="submitBtn" class="btn btn-primary" role="button" aria-controls="main_form" data-toggle="#resultBlock" aria-label="v" title="<?= $this->translate('Submit');?>"><?= $this->translate('Submit');?></button>
+            </form>
+        </div>
+    </div>
+    <hr/>
+    <div class="row" id="resultBlock" aria-hidden="true" aria-expanded="false">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+            <div id="results"></div>
+        </div>
+    </div>
+</div>
